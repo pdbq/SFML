@@ -1,0 +1,13 @@
+﻿  Snake.cpp
+c:\users\pdbq\desktop\cpp\snake\snake\snake.cpp(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pdbq\desktop\cpp\snake\snake\snake.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pdbq\desktop\cpp\snake\snake\snake.cpp(59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Fruit.cpp
+c:\users\pdbq\desktop\cpp\snake\snake\fruit.cpp(46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pdbq\desktop\cpp\snake\snake\fruit.cpp(48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Engine.cpp
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  main.cpp
+  Snake.vcxproj -> C:\Users\pdbq\Desktop\CPP\Snake\Debug\Snake.exe
+  Snake.vcxproj -> C:\Users\pdbq\Desktop\CPP\Snake\Debug\Snake.pdb (Partial PDB)
